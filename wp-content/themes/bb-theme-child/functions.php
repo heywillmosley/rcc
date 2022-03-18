@@ -29,3 +29,5 @@ function evo_photo_icon_text( $atts = [] ) {
 }
 // register shortcode
 add_shortcode('evo_photo_icon_text', 'evo_photo_icon_text');
+
+// This is just a test to see that github is working as it should
